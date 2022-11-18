@@ -6,5 +6,5 @@ This repository contains a comprehensive portfolio showcasing various technical 
 The CIA World Factbook is an annual publicationn that provides a summary of information for 266 countries. This information consists of a myriad of demographic and geographic data.
 Data analysisi using SQL is utiliized to identify the leading and lagging territories of the world based on demographic indicators of population and area.
 # Data Analsys with Python
-# Data Visualizaiton with Python
+# Data Visualizaton with Python
 # Machine Learning 
