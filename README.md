@@ -13,9 +13,12 @@ For this project, data analysis will be performed with data collected by Hacker 
 * [__Exploration of eBay Car Sales Data Project__](https://github.com/Jeri-Stewart/Data-Science-and-Analytics-Portfolio/blob/main/Data%20Analysis/ebay_auto_sales_11172022.ipynb) <br />
 A dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website was originally scraped and uploaded to Kaggle by user orgesleka. For this project, I will be working with a sample of the dataset provided by Dataquest in whiched was altered slightly to resemble directly scraped data and contains 50,000 data points. <br />
 __skills highlighted:__ NumPy, Pandas, Data cleaning
-# Data Visualizaton with Python
+# Data Visualizaton
 * [__Indicators of Heavy Traffic on I-94 Analysis Project__](https://github.com/Jeri-Stewart/Data-Science-and-Analytics-Portfolio/blob/main/Data%20Visualization/I_94_heavy_traffic_indicators.ipynb) <br />
 For this project, a dataset consisting of westbound traffic on the I-94 Interstate highway data will be analyzed. The goal of this analysis is to determine a few indicators of heavy traffic on I-94 and showcase these indicators through exploratory data visualizations. <br />
-__skills highlighted:__ Pandas, Matplotlib, Data analysis
+__skills highlighted:__ Python, Pandas, Matplotlib, Data analysis
+# [__Green Destinations HR Analytics Project__](https://public.tableau.com/app/profile/jeri3886/viz/GreenDestinations_16457199664930/Dashboard1) <br />
+Green Destinations is a travel agency. The HR Director noticed an increase in employee attrition. The director surveyed the staaff and provided data. The gaol of this project is to determine the attritation rate and see if any trends or patterns play a part in employees leaving. 
+__skills highlighted:__ Excel, Tableau, Data analysis, Data visualization
 # Machine Learning 
 # Case Studies
