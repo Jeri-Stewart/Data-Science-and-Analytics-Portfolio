@@ -8,3 +8,4 @@ Data analysis using SQL is utiliized to identify the leading and lagging territo
 # Data Analysis with Python
 # Data Visualizaton with Python
 # Machine Learning 
+# Case Studies
