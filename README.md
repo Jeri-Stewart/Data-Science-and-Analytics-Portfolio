@@ -18,7 +18,7 @@ __skills highlighted:__ NumPy, Pandas, Data cleaning
 For this project, a dataset consisting of westbound traffic on the I-94 Interstate highway data will be analyzed. The goal of this analysis is to determine a few indicators of heavy traffic on I-94 and showcase these indicators through exploratory data visualizations. <br />
 __skills highlighted:__ Python, Pandas, Matplotlib, Data analysis
 * [__Green Destinations HR Analytics Project__](https://public.tableau.com/app/profile/jeri3886/viz/GreenDestinations_16457199664930/Dashboard1) <br />
-Green Destinations is a travel agency. The HR Director noticed an increase in employee attrition. The director surveyed the staaff and provided data. The gaol of this project is to determine the attritation rate and see if any trends or patterns play a part in any employees leaving. <br />
+Green Destinations is a travel agency. The HR Director noticed an increase in employee attrition. The director surveyed the staaff and provided data. The gaol of this project is to determine the attritation rate and see if any trends or patterns play a part in any employees leaving the company. <br />
 __skills highlighted:__ Excel, Tableau, Data analysis, Data visualization
 # Machine Learning 
 # Case Studies
