@@ -14,7 +14,7 @@ For this project, data analysis will be performed with data collected by Hacker 
 A dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website was originally scraped and uploaded to Kaggle by user orgesleka. For this project, I will be working with a sample of the dataset provided by Dataquest in whiched was altered slightly to resemble directly scraped data and contains 50,000 data points. <br />
 __skills highlighted:__ NumPy, Pandas, Data cleaning
 # Data Visualizaton with Python
-* [__Indicators of Heavy Traffic on I-94 Analysis__](https://github.com/Jeri-Stewart/Data-Science-and-Analytics-Portfolio/blob/main/Data%20Visualization/I_94_heavy_traffic_indicators.ipynb) <br />
+* [__Indicators of Heavy Traffic on I-94 Analysis Project__](https://github.com/Jeri-Stewart/Data-Science-and-Analytics-Portfolio/blob/main/Data%20Visualization/I_94_heavy_traffic_indicators.ipynb) <br />
 For this project, a dataset consisting of westbound traffic on the I-94 Interstate highway data will be analyzed. The goal of this analysis is to determine a few indicators of heavy traffic on I-94 and showcase these indicators through exploratory data visualizations. <br />
 __skills highlighted:__ Pandas, Matplotlib, Data analysis
 # Machine Learning 
