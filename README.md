@@ -3,9 +3,8 @@
 This repository contains a comprehensive portfolio showcasing various technical and analytical skills as a data professional.
 # Data Analysis with SQL
 * [__CIA World Factbook Analysis Project__](https://github.com/Jeri-Stewart/Data-Science-and-Analytics-Portfolio/blob/main/SQL/CIA_world_factbook_analysis.ipynb) <br />
-The CIA World Factbook is an annual publicationn that provides a summary of information for 266 countries. This information consists of a myriad of demographic and geographic data.
+The CIA World Factbook is an annual publicationn that provides a summary of information for 266 countries. This information consists of a myriad of demographic and geographic data. Data analysis using SQL is utiliized to identify the leading and lagging territories of the world based on demographic indicators of population and area. <br />
 __skills highlighted:__ SQL, Jupyter Noteboook, Data analysis <br />
-Data analysis using SQL is utiliized to identify the leading and lagging territories of the world based on demographic indicators of population and area.
 # Data Analysis with Python
 * [__Profitable App Profiles for the iOS App Store and Google Play Markets Project__](https://github.com/Jeri-Stewart/Data-Science-and-Analytics-Portfolio/blob/main/Data%20Analysis/profitable_apps_android_ios.ipynb) <br />
 As of September 2018, there were approximately 2 million iOS apps available on the App Store and 2.1 million Android apps available on Google Play. In this project, I act as a data analyst for a mock company that builds free for download Android and iOS mobile apps in which its main source of revenue is its in-app ads. I analyze data from Google Play and the App Store to help the developers to understand that type of apps are likely to attract more users using the data science workflow. <br />
