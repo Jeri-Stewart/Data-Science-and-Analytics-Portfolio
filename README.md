@@ -22,4 +22,6 @@ __skills highlighted:__ Python, Pandas, Matplotlib, Data analysis
 * [__Green Destinations HR Analytics Project__](https://public.tableau.com/app/profile/jeri3886/viz/GreenDestinations_16457199664930/Dashboard1) <br />
 Green Destinations is a travel agency. The HR Director noticed an increase in employee attrition. The director surveyed the staaff and provided data. The gaol of this project is to determine the attritation rate and see if any trends or patterns play a part in any employees leaving the company. <br />
 __skills highlighted:__ Excel, Tableau, Data analysis, Data visualization
-
+* [__Storytelling Data Visualization on Exchange Rates Project__](https://github.com/Jeri-Stewart/Data-Science-and-Analytics-Portfolio/blob/main/Data%20Visualization/euro_us_dollar_exchange_rates.ipynb) <br />
+Daria Chemkaeva put together the data set and made it available on [Kaggle](https://www.kaggle.com/datasets/lsind18/euro-exchange-daily-rates-19992020) — the data source is the European Central Bank. The dataset we'll use describes Euro daily exchange rates between 1999 and 2021. The euro (symbolized with €) is the official currency in most of the countries of the European Union. Data anlaysis is performed and then Matplotlib is utilized to created a visualixation in the FiveThirtyEight style <br />
+__skills highlighted:__ Python, Pandas, Matplotlib, Data analysis, Data cleaning,  Data visualization
