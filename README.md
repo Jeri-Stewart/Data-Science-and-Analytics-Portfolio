@@ -16,8 +16,8 @@ __skills highlighted:__ Data analysis, Data cleaning <br />
 A dataset of used cars from eBay Kleinanzeigen, a classifieds section of the German eBay website was originally scraped and uploaded to Kaggle by user orgesleka. For this project, I will be working with a sample of the dataset provided by Dataquest in whiched was altered slightly to resemble directly scraped data and contains 50,000 data points. <br />
 __skills highlighted:__ NumPy, Pandas, Data cleaning
 # Data Visualizaton
-* [__Amsterdam Airbnb Listings Distance from The Van Gogh Musuem Project__](https://jeri-stewart-corise-data-science-projects-streamlit-app-75evsl.streamlit.app/) <br />
-For this project, a dataset consisting of Amsterdam airbnb listings was analzyed. The dataset was cleaned and prepared though Google Colab. Once cleaned, the dataset was used to build a web app using Streamlit. The visualization shows amsterdam airbnb listings and theire respective distance from the Van Gogh Musuem. <br />
+* [__Amsterdam Airbnb Listings Distance from The Van Gogh Musuem__](https://jeri-stewart-corise-data-science-projects-streamlit-app-75evsl.streamlit.app/) <br />
+For this project, a dataset consisting of Amsterdam airbnb listings was analyzed. The dataset was cleaned and prepared though Google Colab. Once cleaned, the dataset was used to build a web app using Streamlit. The visualization shows amsterdam airbnb listings and theire respective distance from the Van Gogh Musuem. <br />
 __skills highlighted:__ Python, NumPy, Pandas, Streamlit, Data analysis, Data cleaning
 * [__Indicators of Heavy Traffic on I-94 Analysis Project__](https://github.com/Jeri-Stewart/Data-Science-and-Analytics-Portfolio/blob/main/Data%20Visualization/I_94_heavy_traffic_indicators.ipynb) <br />
 For this project, a dataset consisting of westbound traffic on the I-94 Interstate highway data was analyzed. The goal of this analysis was to determine a few indicators of heavy traffic on I-94 and showcase these indicators through exploratory data visualizations. <br />
